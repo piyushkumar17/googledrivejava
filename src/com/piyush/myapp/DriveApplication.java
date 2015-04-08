@@ -185,7 +185,7 @@ public class DriveApplication {
         CUD cud = new CUD(service);
 
 
-        /*args[0] = ACTION;
+        args[0] = ACTION;
         args[2] = FILE_NAME;
 
         if (args[1]=="\"create\""){
@@ -196,7 +196,7 @@ public class DriveApplication {
         }
         if (args[1]=="\"delete\""){
             cud.delete(args[3]);
-        }*/
+        }
     }
 }
 
